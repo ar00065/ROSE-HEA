@@ -2,8 +2,7 @@
 
 Supporting materials for the manuscript:
 
-**Sample-efficient prediction of high-entropy alloy strength
-through outcome-aware robust sequential learning**
+**Sample-efficient prediction of high-entropy alloy strength through outcome-aware robust sequential learning**
 
 ## Currently available materials
 
